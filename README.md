@@ -12,4 +12,13 @@
 формирует новую страницу с этим объектом. Каждый товар имеет свою страницу
 ![Screenshot_2](https://user-images.githubusercontent.com/103268341/199116097-75602fc4-6fa8-460c-ad43-87dda12d5410.png)
 
+### 4.
+При нажатии на
+<br>
+![image](https://user-images.githubusercontent.com/103268341/214679771-d0f73092-4dfb-409d-87c6-90e6d0d06a69.png)
+<br>
+Товар добавляется в корзину
+
+
+
 
