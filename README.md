@@ -24,6 +24,16 @@
 
 Пока отображается только число в корзине, сама корзина не работает
 
+## Код 
+Все товары лежат в 1 файле в таком виде:<br>
+![image](https://user-images.githubusercontent.com/103268341/214681898-b4cc8d82-90c4-4c96-b3f4-13beeaeda3fa.png)<br>
+<br>
+Я все написал в процедурном стиле
+
+Класс HTMLService занимается только отрисовкой.
+![image](https://user-images.githubusercontent.com/103268341/214683045-58370a88-66be-4e5a-b761-d9978f8edc28.png)
 
 
+Класс ProductService занимается поиском товаров, смотря что нужно сделать и как
+![image](https://user-images.githubusercontent.com/103268341/214682865-254134d6-b92a-45df-92c6-432927e70099.png)
 
