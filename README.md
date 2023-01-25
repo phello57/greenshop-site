@@ -1,6 +1,8 @@
 Ссылка: https://phello57.github.io/greenshop.github.io/
 <br> Макет: https://www.figma.com/file/GDInt7mjgpSp3YUE2cgxN0/GreenShop?node-id=0%3A1
-
+<br>
+Мой макет, логику которого, все кнопки и фильтрации я сделал сам, основываясь на шаблоне классов, который я взял в интернете. 
+<br>
 ## Что работает и код
 ### 1. Меню
 ![Диаграмма без названия drawio (2)](https://user-images.githubusercontent.com/103268341/199113426-c27da146-6af4-4f83-be79-8dfc015be6ce.png)
