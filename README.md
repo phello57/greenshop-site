@@ -31,6 +31,8 @@
 Я все написал в процедурном стиле
 
 Класс HTMLService занимается только отрисовкой.
+![image](https://user-images.githubusercontent.com/103268341/214683254-86895b0c-ae82-4159-badb-fa6a73442a3f.png)
+
 ![image](https://user-images.githubusercontent.com/103268341/214683045-58370a88-66be-4e5a-b761-d9978f8edc28.png)
 
 
