@@ -1,4 +1,4 @@
-Ссылка: https://phello57.github.io/greenshop2.github.io/
+Ссылка(без адаптива) : https://phello57.github.io/greenshop2.github.io/
 <br> Макет: https://www.figma.com/file/GDInt7mjgpSp3YUE2cgxN0/GreenShop?node-id=0%3A1
 <br>
 Мой макет, логику которого, все кнопки и фильтрации я сделал сам, основываясь на шаблоне классов, который я взял в интернете. 
